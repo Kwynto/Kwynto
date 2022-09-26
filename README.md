@@ -5,7 +5,9 @@
 - 📫 You can contact me by e-mail: kwynto@mail.ru  
 
 
-**P.S.:** *Programming is a pleasure. Initiation into the mystery of coding is excellent in itself. Programming is like a flash of feelings and can only be compared to ecstasy.*
+**P.S.1:** *Programming is a pleasure. Initiation into the mystery of coding is excellent in itself. Programming is like a flash of feelings and can only be compared to ecstasy.*
+
+**P.S.2:** *ProfanITy. The most used language in programming.*
 
 <!---
 Kwynto/Kwynto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
