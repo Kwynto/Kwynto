@@ -79,10 +79,20 @@ You can get acquainted with my skill level, programming style and psychological 
             </tr>
             <tr>
                 <td>
-                    <b>6.</b> 
+                    <b>6.</b> I hope to receive an offer of long-term cooperation.<br>
+I prefer to join the work team and the project completely, so I would like to receive an offer for a planned period of 3 years or more.
                 </td>
                 <td>
-                    <b>6.</b> 
+                    <b>6.</b> Я надеюсь получить предложение о длительном сотрудничестве.<br>
+Я предпочитаю вливаться в рабочий коллектив и в проект полностью, поэтому мне хотелось бы получить предложение на плановый период от 3 лет.
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Contacts: </b> kwynto@mail.ru
+                </td>
+                <td>
+                    <b>Контакты: </b> kwynto@mail.ru
                 </td>
             </tr>
         </tbody>
