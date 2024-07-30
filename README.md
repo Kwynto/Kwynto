@@ -10,6 +10,13 @@
 
 **P.S.2:** *ProfanITy. The most used language in programming.*
 
+**P.S.3:** *You can support the development of open source and my projects with any amount in bitcoins.*  
+
+**bc1q5c8aql6u29lheadra00sgkl8atpqns2ye7ex72**  
+
+![bc1q5c8aql6u29lheadra00sgkl8atpqns2ye7ex72](https://github.com/Kwynto/Kwynto/blob/main/bc1q5c8aql6u29lheadra00sgkl8atpqns2ye7ex72.jpg)  
+
+
 <!---
 Kwynto/Kwynto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
