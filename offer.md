@@ -89,10 +89,42 @@ I prefer to join the work team and the project completely, so I would like to re
             </tr>
             <tr>
                 <td>
-                    <b>Contacts: </b> kwynto@mail.ru
+                    <b>Contacts: </b> kwynto@mail.ru <br>
+                    <b>or: </b> https://t.me/Kwynto1
                 </td>
                 <td>
-                    <b>Контакты: </b> kwynto@mail.ru
+                    <b>Контакты: </b> kwynto@mail.ru <br>
+                    <b>или: </b> https://t.me/Kwynto1
+                </td>
+            </tr>
+            <tr>
+                <td>
+                .
+                </td>
+                <td>
+                .
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>P.S.:</b> I take on projects with an estimated duration of 3 years or more.<br>
+<br>
+Recently, there have been more frequent cases when I am offered to do a one-time job of a small volume and promised generous payment. Such employers really want me to do the job and no one else.<br>
+I am ready to discuss one-time projects only with advance payment.<br>
+If you think that I should do your project, then first pay 1 BTC and only then I will be ready to discuss your project. Payment means that I will be ready to discuss your project with you, but it does not mean that I will undertake its implementation.<br>
+If you wish, you can pay for my consultation at <b>bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7</b><br>
+![alt bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7](https://github.com/Kwynto/Kwynto/blob/main/bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7.jpg?raw=true)
+<br>
+                </td>
+                <td>
+                    <b>P.S.:</b> Я берусь за проекты с расчетной длительностью от 3 лет.<br>
+<br>
+Последнее время участились случаи, когда мне предлагают выполнить разовую работу небольшого объема и обещают щедрую оплату. Такие наниматели очень хотят чтобы работу выполнил именно я и никто другой.<br>
+Разовые проекты я готов обсуждать только с предварительной оплатой.<br>
+Если Вы считаете, что ваш проект должен сделать именно я, то сначала оплатите 1 BTC и только потом я буду готов обсудить ваш проект. Оплата означает, что я буду готов с вами обсуждать ваш проект, но не значит что я возьмусь за его выполнение.<br>
+Если пожелаете, оплатить мою консультацию Вы можете по адресу <b>bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7</b><br>
+![alt bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7](https://github.com/Kwynto/Kwynto/blob/main/bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7.jpg?raw=true)
+<br>
                 </td>
             </tr>
         </tbody>
