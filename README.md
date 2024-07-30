@@ -5,17 +5,15 @@
 - 📫 You can contact me by e-mail: kwynto@mail.ru  
 - :-) I ask potential employers to read [my wishes](https://github.com/Kwynto/Kwynto/blob/main/offer.md).
 
-
-**P.S.1:** *Programming is a pleasure. Initiation into the mystery of coding is excellent in itself. Programming is like a flash of feelings and can only be compared to ecstasy.*
-
-**P.S.2:** *ProfanITy. The most used language in programming.*
-
-**P.S.3:** *You can support the development of open source and my projects with any amount in bitcoins.*  
+*You can support the development of open source and my projects with any amount in bitcoins.*  
 
 **bc1q5c8aql6u29lheadra00sgkl8atpqns2ye7ex72**  
 
 ![bc1q5c8aql6u29lheadra00sgkl8atpqns2ye7ex72](https://github.com/Kwynto/Kwynto/blob/main/bc1q5c8aql6u29lheadra00sgkl8atpqns2ye7ex72.jpg)  
 
+**P.S.1:** *Programming is a pleasure. Initiation into the mystery of coding is excellent in itself. Programming is like a flash of feelings and can only be compared to ecstasy.*
+
+**P.S.2:** *ProfanITy. The most used language in programming.*
 
 <!---
 Kwynto/Kwynto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
