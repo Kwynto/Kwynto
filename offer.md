@@ -113,7 +113,7 @@ Recently, there have been more frequent cases when I am offered to do a one-time
 I am ready to discuss one-time projects only with advance payment.<br>
 If you think that I should do your project, then first pay 1 BTC and only then I will be ready to discuss your project. Payment means that I will be ready to discuss your project with you, but it does not mean that I will undertake its implementation.<br>
 If you wish, you can pay for my consultation at <b>bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7</b><br>
-![alt bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7](https://github.com/Kwynto/Kwynto/blob/main/bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7.jpg?raw=true)
+<img src="https://github.com/Kwynto/Kwynto/blob/main/bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7.jpg">
 <br>
                 </td>
                 <td>
@@ -123,7 +123,7 @@ If you wish, you can pay for my consultation at <b>bc1qpkmksulp55fvaeujmsraas7nv
 Разовые проекты я готов обсуждать только с предварительной оплатой.<br>
 Если Вы считаете, что ваш проект должен сделать именно я, то сначала оплатите 1 BTC и только потом я буду готов обсудить ваш проект. Оплата означает, что я буду готов с вами обсуждать ваш проект, но не значит что я возьмусь за его выполнение.<br>
 Если пожелаете, оплатить мою консультацию Вы можете по адресу <b>bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7</b><br>
-![alt bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7](https://github.com/Kwynto/Kwynto/blob/main/bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7.jpg?raw=true)
+<img src="https://github.com/Kwynto/Kwynto/blob/main/bc1qpkmksulp55fvaeujmsraas7nvanykpw768tcq7.jpg">
 <br>
                 </td>
             </tr>
