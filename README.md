@@ -5,7 +5,7 @@
 - 📫 You can contact me by e-mail: kwynto@mail.ru  
 - :-) I ask potential employers to read [my wishes](https://github.com/Kwynto/Kwynto/blob/main/offer.md).
 
-*You can support the development of open source and my projects with any amount in bitcoins.*  
+*You can support the development of open source and my projects with any amount in Bitcoins.*  
 
 **bc1q5c8aql6u29lheadra00sgkl8atpqns2ye7ex72**  
 
